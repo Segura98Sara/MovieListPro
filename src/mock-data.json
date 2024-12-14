@@ -1,0 +1,420 @@
+[
+  {
+    "_id": "f0e8a3c1-59d2-41d6-9734-c68c3542a4e4",
+    "title": "Inception",
+    "description": "A skilled thief is given a chance at redemption if he can successfully perform an inception and plant an idea into a target's subconscious.",
+    "releaseDate": "2010-07-16",
+    "img": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+    "rating": 8.8,
+    "category": "Science Fiction"
+  },
+  {
+    "_id": "a4b37e8d-9d46-4a5f-90a0-5c67bcb137b1",
+    "title": "Schindler's List",
+    "description": "The story of Oskar Schindler, who saved over a thousand Jewish refugees during the Holocaust.",
+    "releaseDate": "1993-12-15",
+    "category": "Drama",
+    "img": "https://m.media-amazon.com/images/M/MV5BNjM1ZDQxYWUtMzQyZS00MTE1LWJmZGYtNGUyNTdlYjM3ZmVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "rating": 8.9
+  },
+  {
+    "_id": "62e59f1e-3d6e-4681-bd39-2f7990e32f26",
+    "title": "Titanic",
+    "description": "A romantic drama set against the backdrop of the tragic sinking of the Titanic.",
+    "releaseDate": "1997-12-19",
+    "category": "Drama",
+    "img": "https://play-lh.googleusercontent.com/560-H8NVZRHk00g3RltRun4IGB-Ndl0I0iKy33D7EQ0cRRwH78-c46s90lZ1ho_F1so",
+    "rating": 7.9
+  },
+  {
+    "_id": "ed4a7a1c-e33b-4d7e-9d38-b4d53cd02bb4",
+    "title": "Forrest Gump",
+    "description": "A slow-witted but kind-hearted man witnesses and unwittingly influences historical events in the 20th century.",
+    "releaseDate": "1994-07-06",
+    "category": "Drama",
+    "img": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_.jpg ",
+    "rating": 8.8
+  },
+  {
+    "_id": "b7b52df4-5c0b-4b23-8a75-33a972d38e8f",
+    "title": "Room",
+    "description": "A young boy experiences the outside world for the first time after being held captive with his mother.",
+    "releaseDate": "2015-10-16",
+    "category": "Drama",
+    "img": "https://upload.wikimedia.org/wikipedia/en/c/c2/Room_%282015_film%29.png",
+    "rating": 8.1
+  },
+  {
+    "_id": "04df8b8a-7957-4175-ae6e-b47cfa3e29c5",
+    "title": "A Beautiful Mind",
+    "description": "The story of John Nash, a brilliant mathematician who battles schizophrenia.",
+    "releaseDate": "2001-12-13",
+    "category": "Drama",
+    "img": "https://m.media-amazon.com/images/M/MV5BNzljZTk5ZDgtZTQ1Zi00NTM4LThlOGUtZDk2MGM4NDQ4NWQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "rating": 8.2
+  },
+  {
+    "_id": "d9e9fb62-6b5e-4a49-bde5-3e4e9f1b3cb7",
+    "title": "Birdman",
+    "description": "An actor famous for portraying a superhero tries to reclaim his career with a Broadway play.",
+    "releaseDate": "2014-08-27",
+    "category": "Drama",
+    "img": "https://m.media-amazon.com/images/M/MV5BODAzNDMxMzAxOV5BMl5BanBnXkFtZTgwMDMxMjA4MjE@._V1_.jpg",
+    "rating": 7.7
+  },
+  {
+    "_id": "f3fa0d30-a92e-46a6-9a5c-0534df35b8af",
+    "title": "The Godfather",
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "releaseDate": "1972-03-24",
+    "img": "https://m.media-amazon.com/images/M/MV5BYTJkNGQyZDgtZDQ0NC00MDM0LWEzZWQtYzUzZDEwMDljZWNjXkEyXkFqcGc@._V1_.jpg",
+    "rating": 9.2,
+    "category": "Crime"
+  },
+  {
+    "_id": "8e2e1b6d-dafa-4cf0-978e-b4b727bcfae8",
+    "title": "The Dark Knight",
+    "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+    "releaseDate": "2008-07-18",
+    "img": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 9.0,
+    "category": "Action"
+  },
+  {
+    "_id": "c4eb755b-5e33-4bfa-80a9-87f7398fa5be",
+    "title": "Pulp Fiction",
+    "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "releaseDate": "1994-10-14",
+    "img": "https://musicart.xboxlive.com/7/292c0b00-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
+    "rating": 8.9,
+    "category": "Crime"
+  },
+  
+  {
+    "_id": "bfe19b7d-d91e-4d48-9a7c-0bafefc7a8e5",
+    "title": "Interstellar",
+    "description": "Astronauts travel through a wormhole to save humanity.",
+    "releaseDate": "2014-11-07",
+    "category": "Science Fiction",
+    "img": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "rating": 8.6
+  },
+  {
+    "_id": "ad8b9ebf-87b6-4ae8-9363-e5eb4f1c4e10",
+    "title": "Pride and Prejudice",
+    "description": "A classic tale of love and misunderstandings in 19th-century England.",
+    "releaseDate": "2005-09-16",
+    "category": "Romance",
+    "img": "https://m.media-amazon.com/images/M/MV5BMTA1NDQ3NTcyOTNeQTJeQWpwZ15BbWU3MDA0MzA4MzE@._V1_.jpg",
+    "rating": 7.8
+  },
+  {
+    "_id": "99ce4dfb-c184-4c7f-96d1-6d1ebf1e3447",
+    "title": "Superbad",
+    "description": "Two high school friends try to party before graduation.",
+    "releaseDate": "2007-08-17",
+    "category": "Comedy",
+    "img": "https://m.media-amazon.com/images/M/MV5BNjk0MzdlZGEtNTRkOC00ZDRiLWJkYjAtMzUzYTRiNzk1YTViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "rating": 7.6
+  },
+  {
+    "_id": "5f7d12b9-2f3e-4b4b-8295-ecb6f5f8dcf5",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "description": "A young wizard discovers his magical heritage.",
+    "releaseDate": "2001-11-16",
+    "category": "Fantasy",
+    "img": "https://m.media-amazon.com/images/M/MV5BNTU1MzgyMDMtMzBlZS00YzczLThmYWEtMjU3YmFlOWEyMjE1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "rating": 7.6
+  },
+  {
+    "_id": "0ec9076c-c2f7-49b7-bc8c-30c6b1eb77b7",
+    "title": "The Shawshank Redemption",
+    "description": "Two imprisoned men bond over decades.",
+    "releaseDate": "1994-09-23",
+    "category": "Drama",
+    "img": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "rating": 9.3
+  },
+  {
+    "_id": "47d8fb1a-2f5b-41d2-9e85-2e4b1b8d7f6e",
+    "title": "Mad Max: Fury Road",
+    "description": "In a post-apocalyptic wasteland, a woman rebels against a tyrant.",
+    "releaseDate": "2015-05-15",
+    "category": "Action",
+    "img": "https://m.media-amazon.com/images/M/MV5BZDRkODJhOTgtOTc1OC00NTgzLTk4NjItNDgxZDY4YjlmNDY2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "rating": 8.1
+  },
+  {
+    "_id": "68f8fa3b-6a9d-43a5-9f38-3b5e1c2b4e1c",
+    "title": "Se7en",
+    "description": "Two detectives hunt a serial killer who uses the seven deadly sins.",
+    "releaseDate": "1995-09-22",
+    "category": "Thriller",
+    "img": "https://m.media-amazon.com/images/M/MV5BY2IzNzMxZjctZjUxZi00YzAxLTk3ZjMtODFjODdhMDU5NDM1XkEyXkFqcGc@._V1_QL75_UX190_CR0,8,190,281_.jpg",
+    "rating": 8.6
+  },
+  {
+    "_id": "3a1e17cf-8b97-4c92-9b32-1a6f4b5e83a2",
+    "title": "The Conjuring",
+    "description": "Paranormal investigators help a family terrorized by a dark presence.",
+    "releaseDate": "2013-07-19",
+    "category": "Horror",
+    "img": "https://m.media-amazon.com/images/M/MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 7.5
+  },
+  {
+    "_id": "cb02a8e2-5b96-4bc6-b72e-6a0b2ebdfebb",
+    "title": "Blade Runner",
+    "description": "A blade runner must pursue and terminate four replicants who stole a ship in space and returned to Earth to find their creator.",
+    "releaseDate": "1982-06-25",
+    "category": "Science Fiction",
+    "img": "https://es.web.img3.acsta.net/pictures/17/10/03/08/45/4260918.jpg",
+    "rating": 8.1
+  },
+  {
+    "_id": "29c6a8e7-17b3-4dc4-9e8e-89d43c412154",
+    "title": "The Matrix",
+    "description": "A hacker discovers the shocking truth about his reality and joins a rebellion against machines enslaving humanity.",
+    "releaseDate": "1999-03-31",
+    "category": "Science Fiction",
+    "img": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "rating": 8.7
+  },
+  {
+    "_id": "763d0f2f-31f9-4d84-9400-85bb58b6e74e",
+    "title": "Alien",
+    "description": "The crew of a spaceship encounters a deadly extraterrestrial creature while investigating a mysterious transmission.",
+    "releaseDate": "1979-05-25",
+    "category": "Science Fiction",
+    "img": "https://images-cdn.ubuy.co.in/635ed5f58f97f16bce7811a6-alien-6-film-collection.jpg",
+    "rating": 8.5
+  },
+  {
+    "_id": "6a783c56-8bf3-4934-83c9-452b53c26090",
+    "title": "Star Wars: Episode IV - A New Hope",
+    "description": "A young farm boy joins a rebel alliance to save the galaxy from an oppressive empire.",
+    "releaseDate": "1977-05-25",
+    "category": "Science Fiction",
+    "img": "https://m.media-amazon.com/images/I/612h-jwI+EL._AC_UF1000,1000_QL80_.jpg",
+    "rating": 8.6
+  },
+  {
+    "_id": "8e4c8a77-2904-4c85-8108-d74c9408a7c8",
+    "title": "Back to the Future",
+    "description": "A teenager accidentally travels back in time and must ensure his parents fall in love to save his future.",
+    "releaseDate": "1985-07-03",
+    "category": "Science Fiction",
+    "img": "https://m.media-amazon.com/images/M/MV5BZmM3ZjE0NzctNjBiOC00MDZmLTgzMTUtNGVlOWFlOTNiZDJiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "rating": 8.5
+  },
+  {
+    "_id": "a8c95df6-2f8d-4c6e-9387-d1b7f6c3f9c6",
+    "title": "The Exorcist",
+    "description": "A young girl is possessed by a mysterious entity, and her mother seeks the help of two priests to save her.",
+    "releaseDate": "1973-12-26",
+    "category": "Horror",
+    "img": "https://m.media-amazon.com/images/M/MV5BZjg3YjE4ZjAtYTdmYS00ZTBkLWE1ZjgtNzAzODUwNzRiYjlmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "rating": 8.1
+  },
+ 
+  {
+    "_id": "cd8f12b7-7a8b-4f6a-91a2-7e3b8f4d7a5d",
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "description": "A blacksmith teams up with an eccentric pirate to save the governor's daughter from undead pirates.",
+    "releaseDate": "2003-07-09",
+    "category": "Adventure",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/p_piratesofthecaribbean_thecurseoftheblackpearl_19642_d1ba8e66.jpeg",
+    "rating": 8.1
+  },
+  {
+    "_id": "1f9e35c6-5b7f-46c3-8a6e-2a5c3d4b7e1c",
+    "title": "The Goonies",
+    "description": "A group of kids discover a treasure map and embark on a quest to find the long-lost pirate treasure.",
+    "releaseDate": "1985-06-07",
+    "category": "Adventure",
+    "img": "https://magazineshop.us/cdn/shop/files/234901_C1_NoUPC_1080x.jpg?v=1700581967npm",
+    "rating": 7.8
+  },
+  {
+    "_id": "23df12b8-7d6e-48c5-8a9f-4e6f5d3c9a2b",
+    "title": "Indiana Jones and the Raiders of the Lost Ark",
+    "description": "An archaeologist goes on a quest to find the biblical Ark of the Covenant.",
+    "releaseDate": "1981-06-12",
+    "category": "Adventure",
+    "img": "https://m.media-amazon.com/images/M/MV5BOGNhMjg2ZjgtYzk4Ni00MTViLTg1MmUtYzM2MDZiYjZlMmU3XkEyXkFqcGc@._V1_.jpg",
+    "rating": 8.4
+  },
+  {
+    "_id": "8e1a53d7-b9f3-44c6-9f8d-3a5e7b6e4d1a",
+    "title": "Jurassic Park",
+    "description": "A theme park showcasing genetically-engineered dinosaurs turns into a nightmare when the creatures escape.",
+    "releaseDate": "1993-06-11",
+    "category": "Adventure",
+    "img": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_FMjpg_UX1000_.jpg",
+    "rating": 8.1
+  },
+  {
+    "_id": "1e7ef6c7-7f8b-4811-a11f-c3019b585623",
+    "title": "Crazy, Stupid, Love",
+    "description": "A recently divorced man seeks to rediscover his masculinity with the help of a bachelor expert.",
+    "releaseDate": "2011-07-29",
+    "img": "https://es.web.img3.acsta.net/pictures/18/05/10/01/58/1036845.jpg",
+    "rating": 7.4,
+    "category": "Comedy"
+  },
+  {
+    "_id": "d8f16a44-bf4e-4568-8e93-f0d253a32762",
+    "title": "La La Land",
+    "description": "A musician and an actress struggle to pursue their dreams while facing the challenges of love in Los Angeles.",
+    "releaseDate": "2016-12-09",
+    "img": "https://play-lh.googleusercontent.com/9WLX4kpGokn73nXMUAElCj0byelBhVPSM5vbskzxZuMH8_guUJIbzSknr4wJ_8jRoZhVS9YRIWdunr9HMLLb",
+    "rating": 8.0,
+    "category": "Romance"
+  },
+  {
+    "_id": "c567ae3b-75f4-4d5a-9914-4d35f93cfb8f",
+    "title": "Howl's Moving Castle",
+    "description": "A cursed young woman seeks help from a mysterious wizard and his magical moving castle.",
+    "releaseDate": "2004-11-20",
+    "img": "https://images.fathomevents.com/image/upload/w_1200,dpr_2,f_auto,q_auto/v1726506268/Events/2024/1923/WebsitePoster_1000x1480.jpg.jpg",
+    "rating": 8.2,
+    "category": "Fantasy"
+  },
+  {
+    "_id": "8b61b0cc-1b21-4128-8f63-4f02b080805d",
+    "title": "The Proposal",
+    "description": "A strict boss is forced to fake an engagement with her assistant to avoid deportation.",
+    "releaseDate": "2009-06-19",
+    "img": "https://m.media-amazon.com/images/M/MV5BYWU3ZmFhYTktNzU4NS00ZTEyLTkwNTYtMWE1M2JjMTFmODVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "rating": 6.7,
+    "category": "Comedy"
+  },
+  {
+    "_id": "3a1fcf40-c442-4967-bf86-a1b9ea482c64",
+    "title": "The Notebook",
+    "description": "An epic love story between a wealthy young woman and a humble worker.",
+    "releaseDate": "2004-06-25",
+    "img": "https://m.media-amazon.com/images/M/MV5BZjE0ZjgzMzYtMTAxYi00NGMzLThmZDktNzFlMzA2MWRmYWQ0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "rating": 7.8,
+    "category": "Romance"
+  },
+  {
+    "_id": "9bbedb57-6101-48a6-82fa-8b0f5e75f3b8",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "description": "A hobbit embarks on a dangerous quest to destroy a magical ring.",
+    "releaseDate": "2001-12-19",
+    "img": "https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "rating": 8.8,
+    "category": "Fantasy"
+  },
+  {
+    "_id": "e4c1d9b4-bf61-4214-9f88-dcf83b45a4b1",
+    "title": "Love and Other Drugs",
+    "description": "A pharmaceutical sales rep and a young woman with Parkinson's disease begin a relationship that will challenge their lives and their views on love.",
+    "releaseDate": "2010-11-24",
+    "img": "https://play-lh.googleusercontent.com/Wc4kxDsX2PKAJSKb-Nc6T4Yk_WyPCvvHJsGCDfPTZ07WavyCc3rNzXHNUFS1Fu-SHWYJZeCx1kzWOvNSvTk",
+    "rating": 6.7,
+    "category": "Romance"
+  },
+   {
+    "_id": "5b8ea3d1-f2b4-4f4e-a1be-d111dfe1d2bc",
+    "title": "John Wick",
+    "description": "A retired hitman seeks vengeance against those who wronged him, taking on an army of enemies in a relentless pursuit.",
+    "releaseDate": "2014-10-24",
+    "img": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_FMjpg_UX1000_.jpg",
+    "rating": 7.4,
+    "category": "Action"
+  },
+  {
+    "_id": "d68c9758-6d6f-4eeb-b1f0-c82b4b04a91a",
+    "title": "The Fifth Element",
+    "description": "In the 23rd century, a cab driver becomes involved with a mysterious woman who is the key to saving the world from an ancient evil force.",
+    "releaseDate": "1997-05-09",
+    "img": "https://play-lh.googleusercontent.com/WNWniuC_1Uhh3Cq6P2W9IJBYd-E6jMqJqSuIQMFxi5-eDki0ALcLYYdxjNM4pIGiboAuBY2C14pBlNxMJUw",
+    "rating": 7.6,
+    "category": "Action"
+  },
+  {
+    "_id": "b2a5cb5f-cd34-4d7f-9f9e-80df72f255b5",
+    "title": "The Departed",
+    "description": "An undercover cop and a mole in the police force attempt to identify each other while infiltrating an Irish gang in Boston.",
+    "releaseDate": "2006-10-06",
+    "img": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p162564_p_v8_ag.jpg",
+    "rating": 8.5,
+    "category": "Crime"
+  },
+  
+  {
+    "_id": "bfe9bc0b-03b9-47a6-bdb5-3dbd3f8284d5",
+    "title": "Shutter Island",
+    "description": "A U.S. Marshal investigates the disappearance of a patient from a mental institution on an isolated island, uncovering disturbing truths.",
+    "releaseDate": "2010-02-19",
+    "img": "https://m.media-amazon.com/images/M/MV5BN2FjNWExYzEtY2YzOC00YjNlLTllMTQtNmIwM2Q1YzBhOWM1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "rating": 8.2,
+    "category": "Thriller"
+  },
+  {
+    "_id": "1a3bfc4d-6d91-4a7d-b3a3-9c7e0e98c27e",
+    "title": "The Silence of the Lambs",
+    "description": "A young FBI agent seeks the help of a brilliant but insane cannibalistic serial killer to catch another serial killer on the loose.",
+    "releaseDate": "1991-02-14",
+    "img": "https://m.media-amazon.com/images/M/MV5BNDdhOGJhYzctYzYwZC00YmI2LWI0MjctYjg4ODdlMDExYjBlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "rating": 8.6,
+    "category": "Thriller"
+  },
+
+  {
+    "_id": "c9d2b5c9-8597-4f57-b574-9917c9a3b2b5",
+    "title": "The Woman in the Window",
+    "description": "A woman in New York City believes she has witnessed a crime while spying on her neighbors, but no one believes her.",
+    "releaseDate": "2021-05-14",
+    "img": "https://m.media-amazon.com/images/M/MV5BYWY2ODdhYTQtNWIyNC00MWU3LWI5MDItNWUwMjQ5MjE0ODg4XkEyXkFqcGc@._V1_.jpg",
+    "rating": 5.7,
+    "category": "Thriller"
+  },
+  {
+    "_id": "3a16c5fc-0ac6-44db-8238-75f0130c0e27",
+    "title": "Insidious",
+    "description": "A family looks to prevent evil spirits from trapping their comatose child in a realm called The Further.",
+    "releaseDate": "2010-04-01",
+    "img": "https://m.media-amazon.com/images/M/MV5BMTYyOTAxMDA0OF5BMl5BanBnXkFtZTcwNzgwNTc1NA@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 6.8,
+    "category": "Horror"
+  },
+  {
+    "_id": "5eab9281-9fe7-4c9f-a5be-3ec8b375c80a",
+    "title": "The Shining",
+    "description": "A writer and his family become haunted by supernatural forces while staying at a remote hotel during the winter season.",
+    "releaseDate": "1980-05-23",
+    "img": "https://m.media-amazon.com/images/I/81nwnHTcV2L._AC_UF894,1000_QL80_.jpg",
+    "rating": 8.4,
+    "category": "Horror"
+  },
+  {
+    "_id": "7d410674-2d1e-4e5c-bb09-bf635f6fcf25",
+    "title": "Spirited Away",
+    "description": "A young girl enters a world of spirits and gods and must find a way to rescue her parents and return to the real world.",
+    "releaseDate": "2001-07-20",
+    "img": "https://m.media-amazon.com/images/I/710ievVCTTL._AC_UF1000,1000_QL80_.jpg",
+    "rating": 8.6,
+    "category": "Fantasy"
+  },
+  {
+    "_id": "c8dbef44-b470-49ea-b2de-7988b6b9a4b9",
+    "title": "Scary Movie",
+    "description": "A parody of popular horror films, following a group of friends who find themselves caught up in a series of bizarre and terrifying events.",
+    "releaseDate": "2000-07-07",
+    "img": "https://es.web.img3.acsta.net/pictures/14/03/06/09/44/283111.jpg",
+    "rating": 6.2,
+    "category": "Comedy"
+  },
+  {
+    "_id": "915a7760-e1e9-47c4-8428-051f8a98c6d4",
+    "title": "Scarface",
+    "description": "A Cuban immigrant rises to power in the Miami drug trade, becoming a ruthless kingpin in the world of crime.",
+    "releaseDate": "1983-12-09",
+    "img": "https://m.media-amazon.com/images/I/61zzUt3hBCL.jpg",
+    "rating": 8.3,
+    "category": "Crime"
+  }
+]
